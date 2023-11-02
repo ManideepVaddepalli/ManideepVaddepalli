@@ -8,8 +8,6 @@ Hello! I'm Manideep, a passionate frontend developer with a keen eye for design 
 - **CSS**: Proficient in crafting visually appealing and responsive designs.
 - **Tailwind CSS & Bootstrap**: Skilled in rapid prototyping and building scalable and maintainable UI components.
 - **HTML**: Deep understanding of semantics and structuring content.
-
-## 📚 Currently Learning
 - **MERN Stack**: Diving deep into MongoDB, Express.js, React, and Node.js to build full-stack applications.
 
 ## 📬 Contact & Connect
