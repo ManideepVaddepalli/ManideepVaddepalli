@@ -1,6 +1,6 @@
 # 🖥️ Manideep Vaddepalli
 
-Hello! I'm Manideep, a passionate frontend developer with a keen eye for design and user experience. 🌐 I'm currently on the lookout for frontend development roles where I can contribute my expertise and continue to learn.
+Hello! I'm Manideep, a full-stack developer with a keen eye for design and user experience. 🌐 I'm currently on the lookout for frontend development roles where I can contribute my expertise and continue to learn.
 
 ## 🚀 Skills
 - **React.js**: Proficient in building dynamic and interactive web applications.
